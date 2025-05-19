@@ -1,0 +1,6 @@
+/vendor/
+/node_modules/
+/widgets/node_modules/
+/widgets/dist/
+.env
+.DS_Store
