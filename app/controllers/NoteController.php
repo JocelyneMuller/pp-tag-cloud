@@ -7,12 +7,21 @@ require_once 'BaseController.php';
 
 class NoteController extends BaseController
 {
-    public function index()
+    /**
+     * Affiche la liste de toutes les notes
+     *
+     * @return void
+     */
+    public function index() : void
     {
         echo "Liste de toutes les notes";
     }
-
-    public function show()
+    /**
+     * Affiche une note
+     *
+     * @return void
+     */
+    public function show() : void
     {
         echo "uneNote";
     }
