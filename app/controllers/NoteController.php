@@ -1,6 +1,9 @@
 <?php
 
 require_once 'BaseController.php';
+/**
+ * Contrôleur Note : affiche les notes
+ */
 
 class NoteController extends BaseController
 {
