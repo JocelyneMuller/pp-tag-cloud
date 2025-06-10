@@ -1,8 +1,5 @@
 <?php
-/**
- * Classe abstraite pour les contrôleurs
- * Fournit une méthode render() partagée
- */
+
 abstract class BaseController {
     public function __construct($action) {
         echo "Je suis dans le contrôleur " . get_class($this) . " action : " . $action;
