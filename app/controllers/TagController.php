@@ -1,15 +1,27 @@
 <?php
 
 require_once 'BaseController.php';
-
+/**
+ * Contrôleur pour les tags
+ */
 class TagController extends BaseController
 {
-
-    public function index()
+/**
+ * Affiche la liste des tags
+ * 
+ * @return void
+ */
+    public function index() :void
     {
         echo "Liste de tous les tags ";
     }
-    public function show()
+
+    /**
+     * Affiche un tag
+     * 
+     * @return void
+     */
+    public function show() : void
     {
         echo "Untag";
     }
