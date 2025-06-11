@@ -13,4 +13,4 @@ npm init vite@latest ⚠️ : ancienne syntaxe
 
 npm create vite@latest ✅ : la bonne
 
-npm create vite@latest . ✅ : version recommandée pour dossier actuel
+npm create vite@latest . ✅ : version recommandée pour dossier actuel et celle que j'ai installée
