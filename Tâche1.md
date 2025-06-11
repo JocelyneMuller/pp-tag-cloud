@@ -6,3 +6,11 @@ J'ai utilisé la commande :
 ```bash
 npm create vite@latest .
 j'ai choisi Vue + JavaScript.
+
+npm init vite@lastest ❌ : erreur de frappe
+
+npm init vite@latest ⚠️ : ancienne syntaxe
+
+npm create vite@latest ✅ : la bonne
+
+npm create vite@latest . ✅ : version recommandée pour dossier actuel
