@@ -6,3 +6,4 @@ J'ai utilisé la commande :
 ```bash
 npm create vite@latest .
 j'ai choisi Vue + JavaScript.
+
