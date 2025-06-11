@@ -13,4 +13,11 @@
 
 Ces composants sont réutilisables et rendent le code plus clair, modulaire et maintenable.
 
-## Question 2.1 : Exemples de composants réutilisables
+## Question 2.3 : Le cycle de vie d'un composant
+> quand il est créé,
+
+> quand il est monté dans le DOM,
+
+> quand il estmis à jour,
+
+> quand il est détruit.
