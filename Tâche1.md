@@ -35,5 +35,17 @@ Q1.5 : On peut consulter storybook sur le port 6006 : storybook dev -p 6006
 OUi on peut le changer en le remplacçant par une combinaison ex:
 ```bash
 storybook dev -p 7000
+```
+Q1.6 : l'installation de storybook crée une dépendance de développement 
+Q1.7 : Le dossier stories se trouve : app/widgets/stories/
+
+Il a été créé automatiquement lors de l'installation de Storybook avec :
+
+```bash
+npx storybook@latest init
+```
+Pour voir l’arborescence, j’ai utilisé la commande :
+```bash
+tree app/widgets -L 2
 
 
